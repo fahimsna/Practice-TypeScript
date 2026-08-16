@@ -1,17 +1,17 @@
 "use strict";
-// let productPrice: number = 100;
-// console.log(productPrice);
 Object.defineProperty(exports, "__esModule", { value: true });
-// let productName: string = "Iphone 17 pro max";
-// console.log(productName);
-// let isLoggedIn: boolean = true;
-// console.log(isLoggedIn);
-// let userName: undefined | string = undefined;
-// console.log(userName);
-// userName = "Fahim";
-// console.log(userName);
-// let user: null | string = null;
-// console.log(user);
+let productPrice = 100;
+console.log(productPrice);
+let productName = "Iphone 17 pro max";
+console.log(productName);
+let isLoggedIn = true;
+console.log(isLoggedIn);
+let userName = undefined;
+console.log(userName);
+userName = "Fahim";
+console.log(userName);
+let user = null;
+console.log(user);
 let l = [10, 20, 30, 40];
 console.log(l);
 l.push(99);
@@ -38,4 +38,5 @@ let userAddress = {
     },
 };
 console.log(userAddress);
+let userListNew = [];
 //# sourceMappingURL=index.js.map

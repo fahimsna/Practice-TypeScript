@@ -1,20 +1,20 @@
-// let productPrice: number = 100;
-// console.log(productPrice);
+let productPrice: number = 100;
+console.log(productPrice);
 
-// let productName: string = "Iphone 17 pro max";
-// console.log(productName);
+let productName: string = "Iphone 17 pro max";
+console.log(productName);
 
-// let isLoggedIn: boolean = true;
-// console.log(isLoggedIn);
+let isLoggedIn: boolean = true;
+console.log(isLoggedIn);
 
-// let userName: undefined | string = undefined;
-// console.log(userName);
+let userName: undefined | string = undefined;
+console.log(userName);
 
-// userName = "Fahim";
-// console.log(userName);
+userName = "Fahim";
+console.log(userName);
 
-// let user: null | string = null;
-// console.log(user);
+let user: null | string = null;
+console.log(user);
 
 let l: Number[] = [10, 20, 30, 40];
 console.log(l);
@@ -59,3 +59,5 @@ type userobj = {
   name: string;
   age: number;
 };
+
+let userListNew: [] = [];
